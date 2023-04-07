@@ -1,0 +1,9 @@
+#Tue Jan 17 14:33:50 NOVT 2023
+shadowDistance=128.0
+LIGHT_DB=200
+shadowMapResolution=1024
+VIGNETTE=false
+BLOOM=false
+AO_STRENGTH=1.25
+LIGHT_DG=200
+WORLD_TIME_ANIMATION=true

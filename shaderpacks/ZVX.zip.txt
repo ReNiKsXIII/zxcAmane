@@ -1,0 +1,5 @@
+#Tue Jan 17 13:42:36 NOVT 2023
+shadowDistance=180
+DoF_Strength=60
+SSAO=true
+Lens_Flares_Strength=0.6
